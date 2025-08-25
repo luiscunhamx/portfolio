@@ -1,0 +1,209 @@
+---
+title: "Scientific Performance"
+execute: {echo: false, warning: false, message: false}
+---
+
+## Scientific Output - Eval. Criterion 5.1.1 of the Call
+
+### Publications (n=41)
+```{r}
+library(readxl); library(knitr); library(dplyr)
+path <- "data/cv.xlsx"
+df <- read_excel(path, sheet = "Publications")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Chapters (n=2)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Chapters")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Technical Publications (n=4)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Technical_Publications")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Preprints (n=6)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Preprints")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Other Publications
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Other_Publications")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+} 
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Conference Proceedings (n=17)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Conference_Proceedings")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Oral Presentations (n=27)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Oral_Presentations")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Posters (n=35)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Posters")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+
+## Participation in Research Projects - Eval. Criterion 5.1.2 of the Call
+
+### Approved Projects (n=32)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Projects")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Non‑approved Projects (n=23)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Non_Approved_Projects")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+## Service to the Scientific Community - Eval. Criterion 5.1.3 of the Call
+
+### Event Organisation (n=14)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Event_Organisation")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Peer Review (n=13 diff Journals)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Peer_Review")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Project Evaluation Panels (n=4)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Project_Evaluation_Panels")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Research Expeditions (n=8)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Research_Expeditions")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Invited Oral Presentations (n=16)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Invited_Oral_Presentations")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Jury (Academic Degree) (n=16)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Jury_Academic_Degree")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Scientific Meetings (n=8)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Scientific_Meetings")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### External Services (n=4)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "External_Services")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+## Distinctions (Awards)
+```{r}
+read_excel("data/cv.xlsx", sheet = "Distinctions") %>% knitr::kable()
+```
+
+## Research Teams & Supervision - Eval. Criterion 5.1.4 of the Call
+### PhD, Postdoc Supervisions and Technical Staff (n=9)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "PhD&Postdoc&Tech_Supervisions")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+## Other Relevant Activities
+
+### Management & Coordination Roles (n=)
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Management&Coordination_Roles")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```
+
+### Outreach Activities
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Outreach_Activities")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```

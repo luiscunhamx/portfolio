@@ -1,0 +1,23 @@
+---
+title: "Other Activities"
+execute: {echo: false, warning: false, message: false}
+---
+## Other Relevant Activities  - Eval. Criterion 5.3 of the Call
+
+### Management & Coordination Roles  - Eval. Criterion 5.3.1 of the Call
+```{r}
+library(readxl)
+library(dplyr)
+library(knitr)
+read_excel("data/cv.xlsx", sheet = "Management&Coordination_Roles") %>% knitr::kable()
+```
+
+### External Services
+```{r}
+read_excel("data/cv.xlsx", sheet = "External_Services") %>% knitr::kable()
+```
+
+### Outreach Activities & Science Communication
+```{r}
+read_excel("data/cv.xlsx", sheet = "Outreach_Activities") %>% knitr::kable()
+```

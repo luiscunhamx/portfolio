@@ -1,0 +1,13 @@
+---
+title: "Diagnostics (Sheets)"
+execute: {echo: false, warning: false, message: false}
+---
+
+```{r}
+library(readxl)
+path <- "data/cv.xlsx"
+if(!file.exists(path)) { cat("data/cv.xlsx not found\n") } else {
+  sheets <- excel_sheets(path)
+  cat("**Sheets in data/cv.xlsx:**\n\n- ", paste(sheets, collapse="\n- "), "\n")
+}
+```

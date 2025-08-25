@@ -1,0 +1,139 @@
+---
+title: "Scientific–Pedagogical Project (5 years)"
+author: "Luís Kalchhauser Cunha"
+---
+
+## Abstract
+This 5-year Scientific–Pedagogical Project outlines my vision to establish the University of Aveiro as a leading hub in **functional genomics and soil biodiversity**, bridging genetics, ecology, and sustainability. It details my plan to advance soil genomics research, expand pedagogical innovation in genetics and ecology, and foster cooperation with society, particularly in agriculture, forestry, and environmental management. Building on more than **€48M in research projects**, **€5.8M directly secured for UC**, and a track record of publications in leading journals, I aim to contribute not only scientific excellence but also meaningful teaching innovation and societal impact. My mission is clear: **healthy soils, thriving students, and engaged communities for a sustainable future.**
+
+---
+
+## Carta de Missão (Mission Statement)
+
+Over the next five years, I commit to consolidating the University of Aveiro as a **national and international reference in genetics, genomics, and soil ecology**, advancing both scientific discovery and pedagogical innovation.  
+
+As a researcher, I will deepen our understanding of **soil biodiversity and ecosystem resilience**, integrating high-throughput *omics* methods and ecological models. Building on my leadership in Horizon Europe projects (*BENCHMARKS, SYBERAC, PRESINMED*), and my experience in securing **over €1M directly for Portuguese institutions as PI/PI at UC**, I will establish a **Soil Genomics Hub** at Aveiro, ensuring the university’s leadership in the European Soil Strategy 2030.  
+
+As a teacher, I will **enrich UA’s curricula** in *Genetics, Biologia do Genoma, Bioinformática, Biotecnologia Ambiental,* and *Evolução Biológica e Molecular*, embedding **real-world case studies** and **open science practices** into student learning. I will develop new teaching modules on **Applied Genomics for Ecology and Sustainability**, ensuring that undergraduate, MSc, and PhD students gain not only technical expertise but also the capacity to innovate responsibly.  
+
+As a mentor, I will expand the supervision of MSc and PhD students, embedding them in international projects and fostering **capacity building and career development**. I will continue to promote **open science and reproducibility**, empowering students to be both skilled scientists and responsible global citizens.  
+
+As a citizen-scientist, I will strengthen **societal cooperation** by engaging with farmers, NGOs, and policymakers, promoting citizen science initiatives on soil biodiversity, and translating cutting-edge genomic research into **practical guidelines for sustainable land management**.  
+
+My mission is to unite **science, teaching, and society** under the same purpose:  
+- **Healthy soils** as the foundation of resilient ecosystems and food security.  
+- **Thriving students** as the next generation of scientists and innovators.  
+- **Engaged communities** as co-creators of sustainable futures.  
+
+This is my **scientific, pedagogical, and societal commitment** to the University of Aveiro.  
+
+---
+
+## Full Scientific–Pedagogical Project (5 years)
+
+---
+title: "Scientific–Pedagogical Project (5 years)"
+author: "Luís Kalchhauser Cunha"
+---
+
+## Vision
+
+My vision for the next five years at the University of Aveiro is to build a **research and teaching program that bridges genetics, genomics, and ecology to address the grand challenges of our time**: soil degradation, biodiversity loss, and the urgent need for sustainable agriculture under climate change.  
+
+I have devoted my career to **unravelling the complexity of life belowground**—from soil fauna and microbiomes to the molecular networks that sustain ecosystems. This is not only my profession but also my passion: to understand how soils breathe, adapt, and sustain life. I envision Aveiro becoming a **hub for functional soil genomics**, where laboratory and field research converge with advanced *omics* and bioinformatics to generate knowledge that is **scientifically transformative, pedagogically inspiring, and socially impactful**.  
+
+This vision is grounded in a simple conviction: **healthy soils mean a healthier future for humanity**. I want to train students not just as scientists, but as custodians of the living earth, capable of thinking critically, innovating responsibly, and engaging with society.
+
+---
+
+## Scientific Objectives
+
+Over my career, I have published in leading journals such as *Global Change Biology*, *Molecular Phylogenetics and Evolution*, *BMC Genetics*, and *Soil Biology & Biochemistry*, collaborating with more than **200 co-authors worldwide**. My research integrates classical ecology with molecular and computational biology, seeking to answer one key question: *How does biodiversity drive ecosystem resilience?*  
+
+### 1. Deepen understanding of soil biodiversity through functional genomics
+- Develop and apply **metabarcoding, metagenomics, and metatranscriptomics** to characterize soil biodiversity and functional networks.  
+- Extend ongoing work from **Horizon Europe consortia** (BENCHMARKS, SYBERAC, PRESINMED) into new frameworks at UA, focusing on the functional interplay between microbes, earthworms, and plants.  
+- Advance the pioneering concept of **“Precision Biota Management”**, integrating soil fauna and microbiomes as active tools in sustainable agriculture:contentReference[oaicite:0]{index=0}.  
+
+### 2. Establish experimental models linking soil amendments and biota
+- Refine and deploy the **Terra Preta Nova (TPN v.2) system**, inspired by Amazonian Dark Earths, as a model for testing soil amelioration strategies.  
+- Integrate **biochar–earthworm–microbe systems** to enhance carbon sequestration, nutrient cycling, and resilience under Mediterranean rain-fed agriculture.  
+- Apply **multi-omics pipelines** to decode plant–soil–fauna interactions, setting international benchmarks for soil health indicators.  
+
+### 3. Consolidate leadership and funding capacity
+- To date, I have contributed to securing **nearly €48M in competitive research funding**, with **€5.8M directly allocated to the University of Coimbra**.  
+- As **PI or PI at UC**, I have personally secured **over €1M for UC**, including the **FCT Scientific Employment Stimulus (2018)** and PI roles in *BENCHMARKS* and *La Caixa Monte Regen Hub*.  
+- My aim is to **expand this trajectory at UA**, targeting Horizon Europe calls, FCT funding lines, and Lusophone cooperation programs, ensuring the growth of an independent and sustainable research team.  
+
+### 4. Build a Soil Genomics Hub at UA
+- Establish a **laboratory and training platform in environmental genomics**, combining UA’s strengths in biotechnology, molecular biology, and ecology.  
+- Link soil biodiversity research with UA’s existing infrastructures in **bioinformatics and biotechnology**, ensuring students gain hands-on training with reproducible workflows, open data, and international collaborations.  
+- Position UA as a **reference institution in soil health and genomics**, aligned with the European Soil Strategy for 2030.  
+
+---
+
+## Teaching Objectives
+
+Teaching has always been central to my career. I have been recognized for excellence in pedagogy—elected *Best Student Partnership Lecturer* at the University of South Wales (2019)—and I see teaching as **an act of mentorship, inspiration, and transformation**.  
+
+At the University of Aveiro, I will align my teaching activities with both **core curricula and innovative new modules**, integrating research-led education into undergraduate and postgraduate training.  
+
+### 1. Contribute to core teaching at BSc and MSc levels
+- Genetics, Genomics, and Bioinformatics (*Genética*, *Biologia Molecular*, *Biologia do Genoma*, *Bioinformática*).  
+- Ecology and Environmental Biology (*Evolução Biológica e Molecular*, *Indicadores Biológicos de Poluição*).  
+- Applied courses where my expertise in experimental design, ecotoxicogenomics, and soil biology adds value (*Planeamento Experimental e Análise de Dados Biológicos*, *Biotecnologia Ambiental*).  
+
+### 2. Develop new teaching content
+- Design a module on **Applied Genomics for Ecology and Sustainability**, merging case studies from Horizon Europe projects with hands-on molecular and computational training.  
+- Create interdisciplinary teaching materials that bridge molecular biology, ecology, and environmental biotechnology, directly tailored to UA’s MSc in Molecular and Cellular Biology and MSc in Applied Ecology.  
+
+### 3. Supervision and capacity building
+- I currently supervise **two PhD students** as main supervisor, **one PhD as co-supervisor**, and **two MSc-trained technicians** under Horizon Europe projects.  
+- Over the years, I have supervised and co-supervised **multiple MSc and undergraduate theses**.  
+- At UA, I plan to expand this role, embedding MSc and PhD projects within Horizon Europe and FCT projects, ensuring students benefit from **international collaborations and real-world research exposure**.  
+
+### 4. Promote pedagogical innovation
+- Integrate **open science and reproducibility** as teaching pillars, training students in FAIR principles, version control, and computational literacy.  
+- Use **research-based learning** approaches, where students contribute data to ongoing projects, fostering ownership and scientific curiosity.  
+- Encourage **interdisciplinary perspectives**, bridging biology, ecology, data science, and sustainability.  
+
+---
+
+## Societal Cooperation
+
+Science must not remain within the walls of academia. My work has always sought to connect with society—through outreach, stakeholder engagement, and policy dialogue. At UA, I will strengthen this mission.  
+
+### 1. Engage with stakeholders
+- Collaborate with **farmers, cooperatives, and environmental managers** to co-develop soil health indicators and practical management guidelines.  
+- Translate cutting-edge research into **accessible tools for agriculture**, especially for rain-fed Mediterranean systems, aligning with eco-schemes in the EU Common Agricultural Policy.  
+
+### 2. Promote citizen science
+- Develop **citizen soil monitoring projects**, engaging schools and NGOs in biodiversity sampling, soil testing, and environmental awareness.  
+- Create **educational materials** in Portuguese and English for dissemination to communities, enhancing scientific literacy.  
+
+### 3. Strengthen international cooperation
+- Expand collaborations with **Lusophone countries (Brazil, Angola, São Tomé, Mozambique)**, building on prior work with EMBRAPA and African agroforestry projects.  
+- Position UA as a bridge between **Europe, Latin America, and Africa** in soil genomics research, strengthening global visibility.  
+
+### 4. Science–policy dialogue
+- Contribute to **national and European soil health strategies**, leveraging my leadership roles in projects like BENCHMARKS.  
+- Provide expertise to regional policymakers in environmental sustainability and agricultural innovation.  
+
+### 5. Dissemination and outreach
+- Publish in **high-impact journals** and ensure open access to data, protocols, and benchmarks (protocols.io, GitHub, ENA).  
+- Organize **workshops and training events** for stakeholders and students, ensuring knowledge transfer beyond academia.  
+- Engage with the **media and public**, emphasizing the value of soils as the foundation of life.  
+
+---
+
+## Closing Statement
+
+This project is more than a roadmap—it is my **commitment of heart and mind** to the University of Aveiro. I bring with me the experience of securing **€48M in funded projects**, leading **multinational consortia**, publishing in **high-impact journals**, and mentoring the next generation of researchers.  
+
+But beyond numbers and achievements, I bring a **deep passion for soils, biodiversity, and education**. I believe that the University of Aveiro can be a beacon of innovation, where **genomics meets ecology**, where students become **leaders and innovators**, and where science serves not only discovery but also society.  
+
+Over the next five years, I will dedicate myself to building a **scientific, pedagogical, and societal legacy** that contributes to a sustainable future and strengthens Aveiro’s role on the international stage.  
+
+**Healthy soils, thriving students, and engaged communities—this is my vision for Aveiro.**
+
+

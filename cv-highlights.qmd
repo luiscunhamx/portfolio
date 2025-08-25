@@ -1,0 +1,47 @@
+---
+title: "CV Highlights"
+execute: {echo: false, warning: false, message: false}
+engine: knitr
+---
+
+
+## Education
+- PhD in Molecular and Cellular Biology — focus on genetics, genomics, and computational biology.
+- Continued education in bioinformatics, statistics, and advanced molecular methods.
+
+
+## Distinctions & Memberships
+- Research funding contributions > **€36 M** (PI/Co-I/Researcher).  
+- Collaborations with EMBRAPA (Brazil), Cardiff University (UK), and University of Coimbra (PT).
+
+## Career (Professional Experience)
+```{r}
+library(readxl); library(dplyr); library(knitr)
+path <- "data/cv.xlsx"
+read_excel(path, sheet = "Professional_Experience") %>% knitr::kable()
+```
+
+## Education
+```{r}
+read_excel("data/cv.xlsx", sheet = "Education") %>% knitr::kable()
+```
+
+## Additional Education & Courses
+```{r}
+read_excel("data/cv.xlsx", sheet = "Additional_Education") %>% knitr::kable()
+```
+
+## Memberships
+```{r}
+read_excel("data/cv.xlsx", sheet = "Memberships") %>% knitr::kable()
+```
+
+## Distinctions (Awards)
+```{r}
+read_excel("data/cv.xlsx", sheet = "Distinctions") %>% knitr::kable()
+```
+
+## Other Skills
+```{r}
+read_excel("data/cv.xlsx", sheet = "Other_Skills") %>% knitr::kable()
+```

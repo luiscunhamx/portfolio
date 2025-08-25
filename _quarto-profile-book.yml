@@ -1,0 +1,26 @@
+﻿project:
+  type: book
+
+book:
+  title: "Portfolio  Luís Kalchhauser Cunha"
+  author: "Luís Kalchhauser Cunha"
+  date: today
+  output-file: "UA-Portfolio_Luis-Kalchhauser-Cunha.pdf"
+  chapters:
+    - index.qmd
+    - cv-highlights.qmd
+    - teaching.qmd
+    - scientific-performance.qmd
+    - report.qmd
+    - selected-works.qmd
+    - other-activities.qmd
+    - project.qmd
+    - appendices.qmd
+
+format:
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+    fontsize: 11pt
+    geometry: "margin=2.5cm"

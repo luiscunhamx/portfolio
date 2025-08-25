@@ -1,0 +1,28 @@
+---
+title: "Teaching Capacity"
+execute: {echo: false, warning: false, message: false}
+---
+
+## Teaching Capacity - Eval. Criterion 5.2 of the Call
+
+### Pedagogical Innovation Eval. Criterion 5.2.1 of the Call
+```{r}
+knitr::kable(readxl::read_excel("data/cv.xlsx", sheet = "Pedagogical_Innovation"))
+```
+
+### Teaching (hours and units) Eval. Criterion 5.2.2 of the Call
+```{r}
+library(readxl)
+library(dplyr)
+library(knitr)
+read_excel("data/cv.xlsx", sheet = "Teaching") %>% knitr::kable()
+```
+
+### Other Supervision Eval. Criterion 5.2.3 of the Call
+```{r}
+df <- read_excel("data/cv.xlsx", sheet = "Other_Supervision")
+if ("URL" %in% names(df)) {
+	df$URL <- ifelse(!is.na(df$URL) & nzchar(df$URL), paste0("[link](", df$URL, ")"), "")
+}
+knitr::kable(df, escape = FALSE, longtable = TRUE)
+```

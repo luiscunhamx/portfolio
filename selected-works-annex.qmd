@@ -1,0 +1,65 @@
+---
+title: "Representative Works — Annex"
+subtitle: "Up to five selected outputs & justifications"
+author: "Luís Kalchhauser Cunha"
+date: today
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: "margin=2.5cm"
+    fontsize: 11pt
+    documentclass: scrreprt
+    classoption: ["titlepage"]
+include-in-header:
+  text: |
+    \usepackage{hyperref}
+    \hypersetup{colorlinks=true, linkcolor=black, urlcolor=blue}
+    \urlstyle{same}
+    \setlength{\parskip}{6pt}
+---
+
+## Justifications
+
+### 1. Living on a volcano's edge: genetic isolation of an extremophile terrestrial metazoan (2014)  
+_Heredity_ 112(2):132-142. DOI: [10.1038/hdy.2013.84](http://dx.doi.org/10.1038/hdy.2013.84)  
+*Authors:* Cunha, L.; Montiel, R.; Novo, M.; Orozco-Terwengel, P.; Rodrigues, A.; Morgan, A.J.; Kille, P.
+
+This article investigates **genetic isolation and adaptation of an extremophile metazoan in volcanic environments**, applying population genetic markers and comparative analyses at mitochondrial and nuclear genome levels.  
+I contributed to **genotyping, dataset curation, and statistical inference in R**, building expertise in **genetics of adaptation to extreme environments** and **population structure analysis**.
+
+---
+
+### 2. Amazonian earthworm biodiversity is heavily impacted by ancient and recent human disturbance (2023)  
+_Science of The Total Environment_ 895:165087. DOI: [10.1016/j.scitotenv.2023.165087](http://dx.doi.org/10.1016/j.scitotenv.2023.165087)  
+*Authors:* Conrado, A.C.; Demetrio, W.C.; Stanton, D.W.; Bartz, M.L.; James, S.W.; Santos, A.; da Silva, E.; et al. and Cunha, L.
+
+This large international collaboration demonstrates how **human land-use history drives biodiversity patterns in Amazonian earthworms**, integrating DNA barcoding, ecological surveys, and advanced statistical models.  
+My role included leading the **field and lab work** but also contributing to **bioinformatic processing of sequence data and ecological genetics analysis**, emphasizing skills in **biodiversity genomics and large-scale data integration**.
+
+---
+
+### 3. Identifying conserved polychaete molecular markers of metal exposure (2021)  
+_Comparative Biochemistry and Physiology Part C: Toxicology & Pharmacology_ 240:108913. DOI: [10.1016/j.cbpc.2020.108913](http://dx.doi.org/10.1016/j.cbpc.2020.108913)  
+*Authors:* Etxabe, A.G.; Pini, J.M.; Short, S.; Cunha, L.; Kille, P.; Watson, G.J.
+
+This work identifies **transcriptome-derived biomarkers of metal exposure in polychaetes**, using RNA-Seq analysis of *Alitta virens*. Comparative bioinformatics highlighted conserved molecular responses across taxa.  
+I contributed to the **analysis of RNA-Seq data, marker validation, and interpretation of functional pathways**, strengthening expertise in **environmental transcriptomics and stress genomics**.
+
+---
+
+### 4. Coping with extremes: How Epigenetic and Molecular Adaptations Enable Earthworms to Thrive in Volcanic Soils (Preprint, 2025)  
+_bioRxiv_. DOI: [10.1101/2025.07.24.666578](https://doi.org/10.1101/2025.07.24.666578)  
+*Authors:* Rimington, O.; Novo, M.; Hodson, M.E.; Camarinho, R.; Viveiros, F.; Silva, C.; Arruda, H.; Rodrigues, A.S.; Bruford, M.; Short, S.; Morgan, A.J.; Spurgeon, D.; Kille, P.; Cunha, L.
+
+This preprint explores **epigenetic and molecular adaptations of earthworms in volcanic soils**, integrating genome-wide methylation profiling and transcriptomic analyses.  
+I was responsible for **integrating sequencing pipelines and population epigenomic analysis**, reflecting skills in **epigenetics, stress adaptation, and reproducible workflows** highly relevant to the Genetics & Genomics focus of the UA call:contentReference[oaicite:0]{index=0}.
+
+---
+
+### 5. A large set of microsatellites for the highly invasive earthworm *Amynthas corticis* (2017)  
+_Applied Soil Ecology_ 119:152-155. DOI: [10.1016/j.apsoil.2017.05.029](http://dx.doi.org/10.1016/j.apsoil.2017.05.029)  
+*Authors:* Cunha, L.; Thornber, A.; Kille, P.; Morgan, A.; Novo, M.
+
+This publication describes the development of **SSR markers from low-coverage genomes** to study invasive *Amynthas corticis*. Markers were validated and proposed for monitoring invasion dynamics and population structure.  
+I led the **design and validation of SSR panels, PCR protocols, and downstream analysis**, consolidating expertise in **molecular marker development and applied population genetics**.

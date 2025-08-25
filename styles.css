@@ -1,0 +1,9 @@
+:root { --brand:#0b5fa4; --accent:#7aa6d6; }
+h1,h2,h3{ color:var(--brand); letter-spacing:.2px; }
+.quarto-title-block .quarto-title-banner{
+  background:linear-gradient(135deg,#eef5ff,#f9fbff); border:1px solid #e7eef7;
+}
+img.portrait{ border-radius:16px; box-shadow:0 6px 24px rgba(0,0,0,.08); }
+.badge-soft{ background:#f1f6fb; color:#1b3a57; border:1px solid #e2ecf7;
+  border-radius:999px; padding:.25rem .6rem; margin-right:.35rem; display:inline-block;}
+.table td,.table th{ vertical-align:top; }

@@ -1,0 +1,44 @@
+﻿project:
+  type: website
+  resources:
+    - data/**
+    - images/**
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    df-print: paged
+    css: styles.css
+    embed-resources: true
+  pdf:
+    documentclass: scrreprt
+    toc: false
+
+website:
+  title: "Portfolio  Luís Kalchhauser Cunha"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv-highlights.qmd
+        text: CV Highlights
+      - href: selected-works.qmd
+        text: Selected Works
+      - href: scientific-performance.qmd
+        text: Scientific Performance (5.1)
+      - href: teaching.qmd
+        text: Teaching (5.2)
+      - href: other-activities.qmd
+        text: Other Activities (5.3)
+      - href: report.qmd
+        text: Report (5.3.2)
+      - href: project.qmd
+        text: Project (5.4)
+      - href: appendices.qmd
+        text: Appendices
+
+  page-footer:
+    left: " 2025 Luís Kalchhauser Cunha"
+    right: "University of Coimbra  CFE"
