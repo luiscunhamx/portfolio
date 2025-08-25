@@ -10,10 +10,6 @@ engine: knitr
 - Continued education in bioinformatics, statistics, and advanced molecular methods.
 
 
-## Distinctions & Memberships
-- Research funding contributions > **€36 M** (PI/Co-I/Researcher).  
-- Collaborations with EMBRAPA (Brazil), Cardiff University (UK), and University of Coimbra (PT).
-
 ## Career (Professional Experience)
 ```{r}
 library(readxl); library(dplyr); library(knitr)

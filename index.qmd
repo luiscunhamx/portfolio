@@ -14,15 +14,15 @@ title-block-banner-color: "#0b5fa4"
 
 ## About
 
-**Luís Kalchhauser Cunha** is a Molecular Ecologist and Researcher at the University of Coimbra (CFE), specializing in *soil biodiversity, functional genomics, and bioinformatics*. His work examines how disturbance and management practices shape soil communities and ecosystem functions, integrating morphological data with multi-marker genetic approaches and high-throughput sequencing (Nanopore, Illumina; RNA-Seq, genome assembly, metabarcoding, metagenomics).  
+I am a Molecular Ecologist and Researcher at the University of Coimbra (CFE), specializing in *soil biodiversity, functional genomics, and bioinformatics*. My work focus on how disturbance and management practices shape soil communities and ecosystem functions, integrating morphological data with multi-marker genetic approaches and high-throughput sequencing (Nanopore, Illumina; RNA-Seq, genome assembly, metabarcoding, metagenomics).  
 
-He combines broad laboratory expertise — from DNA extraction, PCR, library preparation, sequencing, flow cytometry, and genomic marker development to probe-based DNA enrichment and rigorous quality control — with reproducible computational workflows (R, Python, Conda/Bioconda). This integrative approach links molecular tools with ecological knowledge to deliver actionable insights for conservation, agriculture, and climate resilience.  
+I combine broad laboratory expertise, from DNA extraction, PCR, library preparation, sequencing, flow cytometry, and genomic marker development to probe-based DNA enrichment and rigorous quality control, with reproducible computational workflows (mostly using R, Python, Conda/Bioconda). This integrative approach links molecular tools with ecological knowledge to deliver actionable insights for conservation, agriculture, and climate resilience but alSO allow replicability within my team and collaboration network.  
 
-Luís coordinates the **Environmental Genomics Laboratory (EnGeL-UC)** at UC Biotech and has contributed as PI, Co-I, and researcher to projects totalling **~€48M**, including Horizon Europe initiatives such as **BENCHMARKS, GOOD, VALERECO, SYBERAC, and PARC**, of which **~€5.5M** were allocated to the University of Coimbra. His international collaborations span EMBRAPA (Brazil), Cardiff University (UK), and European research networks. As **PI/PI at UC**, he has secured **>€1M** directly for UC, while as **Researcher** in international consortia I contributed to **>€28M** in projects, including **~€4.7M** for UC. This record highlights his ability to attract funding and to strengthen UC’s position in major frameworks such as **Horizon Europe**.  
+I currently coordinate the **Environmental Genomics Laboratory (EnGeL-UC)** at UC Biotech and I co-coordinate the [Soil Health Research Group](https://cfe.uc.pt/grupos-de-investigacao/saude-do-solo/) at the **Centre of Functional Ecology (CFE)** and [Thematic Line #2](https://labterra.pt/thematic-lines/) (Sustainable agriculture, forestry and fisheries) at Laboratorio Terra. I have contributed as PI, Co-I, and researcher to projects totalling **~€48M**, including Horizon Europe initiatives such as **BENCHMARKS, GOOD, VALERECO, SYBERAC**, of which **~€5.5M** were allocated to the University of Coimbra. My international collaborations span EMBRAPA (Brazil), Cardiff University (UK), and European research networks. As **PI/PI at UC**, I have secured **>€1M** directly for UC, while as **Researcher** in international consortia I contributed to **>€28M** in projects, including **~€4.7M** for UC. This record highlights my ability to attract funding and to strengthen UC’s position in major frameworks such as **Horizon Europe**.  
 
-An experienced educator, he has delivered over **1,560 hours of teaching** in Portugal and the UK across BSc and MSc programmes, covering conservation genetics, wildlife management, marine and freshwater biology, research skills, field ecology, and biostatistics. He also supervises MSc and PhD students and contributes to pedagogical innovation through curriculum design and laboratory manuals.  
+As experienced educator, I have delivered over **1,560 hours of teaching** in Portugal and the UK across BSc and MSc programmes, covering conservation genetics, wildlife management, research skills, field ecology, and biostatistics. I supervise both MSc and PhD students and contribute to pedagogical innovation through curriculum design and laboratory manuals.  
 
-Beyond academia, Luís engages with agricultural stakeholders to promote soil health monitoring and sustainable land management. His vision is to advance molecular ecology as a bridge between fundamental science and societal needs, strengthening biodiversity conservation and ecosystem resilience in a changing world.  
+Beyond academia, I keep engagement with agricultural stakeholders to promote soil health monitoring and sustainable land management. My vision is to advance molecular ecology as a bridge between fundamental science and societal needs, strengthening biodiversity conservation and ecosystem resilience in a changing world.  
 
 
 ### Scopus Profile — [Luis Cunha](https://www.scopus.com/authid/detail.uri?authorId=57220488253)
@@ -47,11 +47,11 @@ Beyond academia, Luís engages with agricultural stakeholders to promote soil he
 
 <span class="badge-soft">Linux/Unix</span>
 <span class="badge-soft">R · Python</span>
-<span class="badge-soft">SPSS · JASP</span>
-<span class="badge-soft">Conda/Bioconda</span>
 <span class="badge-soft">Nanopore · Illumina</span>
 <span class="badge-soft">RNA‑Seq · Assembly · Metabarcoding</span>
-<span class="badge-soft">Flow Cytometry</span>
+<span class="badge-soft">SPSS · JASP</span>
+<span class="badge-soft">Conda/Bioconda</span>
+<span class="badge-soft">Quarto/Mardown</span>
 <span class="badge-soft">QC (Nanodrop · Qubit · TapeStation)</span>
 <span class="badge-soft">Technical writing · GLP · SOPs</span>
 
@@ -63,7 +63,8 @@ Beyond academia, Luís engages with agricultural stakeholders to promote soil he
 ### Groups & Links
 
 - [Soil Health Research Group](https://cfe.uc.pt/grupos-de-investigacao/saude-do-solo/)  
-- [Environmental Genomics Lab](https://cfe.uc.pt/laboratorios-servicos/environmental-genomics-lab/)  
+- [Environmental Genomics Lab](https://cfe.uc.pt/laboratorios-servicos/environmental-genomics-lab/)
+- [Thematic Line #2 at Lab TERRA](https://labterra.pt/thematic-lines/)
 - [Google Scholar](https://scholar.google.pt/citations?user=_HJekuoAAAAJ&hl=en)  
 - [ORCID](http://orcid.org/0000-0002-5870-2537/)  
 - [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=57220488253/)  

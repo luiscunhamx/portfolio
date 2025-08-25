@@ -7,65 +7,65 @@ execute: {echo: false, warning: false, message: false}
 
 ## Annexes
 
-- [ANEXO 1_2025](annexes/Annex_1_2025.pdf) — Article — Response of soil biota to agricultural management practices — Soil Biology & Biochemistry (Q1)
-- [ANEXO 2_2025](annexes/Annex_2_2025.pdf) — Article — Tucupitermes, the largest Apicotermitinae from Amazon — Zootaxa (Q2)
-- [ANEXO 3_2025](annexes/Annex_3_2025.pdf) — Article — Morphological and DNA-based identification of earthworms — Ecology & Evolution (Q1)
-- [ANEXO 4_2025](annexes/Annex_4_2025.pdf) — Book Chapter — Soil biology, soil health and ecosystem services — Measuring and assessing the biological health of soils
-- [ANEXO 5_2025](annexes/Annex_5_2025.pdf) — Technical Guideline — BENCHMARKS soil sampling protocol – Agricultural & Forest sites — Natural Resources and Bioeconomy Studies 39/2025
-- [ANEXO 6_2025](annexes/Annex_6_2025.pdf) — Technical Guideline — BENCHMARKS soil sampling protocol – Urban systems — Natural Resources and Bioeconomy Studies 41/2025
-- [ANEXO 7_2025](annexes/Annex_7_2025.pdf) — Technical Guideline — BENCHMARKS soil sampling protocol – Agricultural & Forest systems — Natural Resources and Bioeconomy Studies 40/2025
-- [ANEXO 8_2025](annexes/Annex_8_2025.pdf) — Preprint — Coping with extremes: epigenetic and molecular adaptations in volcanic soils — bioRxiv
-- [ANEXO 9_2025](annexes/Annex_9_2025.pdf) — Conference Abstract — Soil health through macrofauna diversity — EGU General Assembly 2025
-- [ANEXO 10_2025](annexes/Annex_10_2025.pdf) — Conference Abstract — Integrating morphological & molecular approaches to soil biodiversity — EGU General Assembly 2024
-- [ANEXO 12_2025](annexes/Annex_12_2025.pdf) — MSc Jury — Irene Marques – Agroecological Transition — University of Coimbra
-- [ANEXO 13_2025](annexes/Annex_13_2025.pdf) — MSc Jury — Isabella Castro-Rebello – Environmental DNA metabarcoding — University of Coimbra
-- [ANEXO 14_2025](annexes/Annex_14_2025.pdf) — MSc Jury — Joana Dias – Post-fire forest recovery — University of Coimbra
-- [ANEXO 15_2025](annexes/Annex_15_2025.pdf) — MSc Jury — Mariana Sousa – Urban soils biodiversity — University of Minho
-- [ANEXO 16_2025](annexes/Annex_16_2025.pdf) — MSc Jury — Guilhem Boyer – Batdiversity & PPP exposure — University of Coimbra
-- [ANEXO 17_2025](annexes/Annex_17_2025.pdf) — MSc Jury & MSc Supervision — Enrico Chiesa – Soil structure complexity — University of Trento
-- [ANEXO 18_2025](annexes/Annex_18_2025.pdf) — Invited Talk — The BENCHMARKS Project — Annual Soil Sciences Meeting, Porto
-- [ANEXO 19_2025](annexes/Annex_19_2025.pdf) — MSc Supervision — Elisabeth Steiner – Soil macrofauna intensification gradient — University of Coimbra
-- [ANEXO 20_2025](annexes/Annex_20_2025.pdf) — MSc Supervision — Carolina Santos – Bacterial communities & contaminants — University of Coimbra
-- [ANEXO 1_2024](annexes/Annex_1_2024.pdf) — Article — Amazonian earthworm biodiversity & human disturbance — Science of the Total Environment (Q1)
-- [ANEXO 2_2024](annexes/Annex_2_2024.pdf) — MSc Jury — Luísa Fraga – Soil macrofauna evaluation — University of Coimbra
-- [ANEXO 3_2024](annexes/Annex_3_2024.pdf) — MSc Jury & Supervision — Luísa Fraga – Soil macrofauna evaluation — University of Coimbra
-- [ANEXO 4_2024](annexes/Annex_4_2024.pdf) — MSc Jury — Mariana Nunes – Adaptations of soil organisms — University of Coimbra
-- [ANEXO 5_2024](annexes/Annex_5_2024.pdf) — MSc Jury — Mariana Nunes – Adaptations of soil organisms — University of Coimbra
-- [ANEXO 6_2024](annexes/Annex_6_2024.pdf) — MSc Jury & Supervision — Sofia Ramos – Mastomys natalensis differentiation — University of Coimbra
-- [ANEXO 7_2024](annexes/Annex_7_2024.pdf) — Pedagogical Material — Manual – Organelle genome assembly — University of Coimbra
-- [ANEXO 8_2024](annexes/Annex_8_2024.pdf) — Pedagogical Material — Manual – DNA Barcoding and Taxonomical Gap — University of Coimbra
-- [ANEXO 9_2024](annexes/Annex_9_2024.pdf) — Pedagogical Material — Manual – Earthworm barcoding in urban fragments — University of Coimbra
-- [ANEXO 10_2024](annexes/Annex_10_2024.pdf) — Pedagogical Material — Manual – Genetic diversity in lab cultures (barcoding) — University of Coimbra
-- [ANEXO 11_2024](annexes/Annex_11_2024.pdf) — Pedagogical Material — Manual – Portable equipment for lab culture diversity — University of Coimbra
-- [ANEXO 12_2024](annexes/Annex_12_2024.pdf) — Pedagogical Material — Informative handouts for student assessments — University of Coimbra
-- [ANEXO 13_2024](annexes/Annex_13_2024.pdf) — Event Organization — BENCHMARKS 1st Annual Meeting & Workshop — University of Coimbra
-- [ANEXO 14_2024](annexes/Annex_14_2024.pdf) — Event Organization — BENCHMARKS Workshop – Healthy soils for agriculture — University of Coimbra
-- [ANEXO 15_2024](annexes/Annex_15_2024.pdf) — Event Organization — BENCHMARKS Workshop – Healthy soils for forests — University of Coimbra
-- [ANEXO 1_2023](annexes/Annex_1_2023.pdf) — Article — Earthworm communities in no-tillage systems — Zootaxa (Q2)
-- [ANEXO 2_2023](annexes/Annex_2_2023.pdf) — Article — High-altitude adaptation in Aporrectodea caliginosa — Life Science Alliance (Q1)
-- [ANEXO 3_2023](annexes/Annex_3_2023.pdf) — Article — Anthropic origin of Amazonian Dark Earths — Nature Communications
-- [ANEXO 4_2023](annexes/Annex_4_2023.pdf) — Article — Carbon & nitrogen storage in Amazonian soils — CATENA
-- [ANEXO 6_2023](annexes/Annex_6_2023.pdf) — Invited Talk — BENCHMARKS WP4 Kick-Off — Wageningen University
-- [ANEXO 1_2022](annexes/Annex_1_2022.pdf) — Article — Macroinvertebrate diversity in Anthropic soils — Global Change Biology (Q1)
-- [ANEXO 2_2022](annexes/Annex_2_2022.pdf) — Article — Pesticides in no-tillage farming — Scientific Reports (Q1)
-- [ANEXO 3_2022](annexes/Annex_3_2022.pdf) — Article — GHG emissions in casts of giant Brazilian earthworm — Biology & Fertility of Soils (Q1)
-- [ANEXO 4_2022](annexes/Annex_4_2022.pdf) — Article — GC-MS fingerprints – statistical analysis — Chemical Data Collections (Q3)
-- [ANEXO 5_2022](annexes/Annex_5_2022.pdf) — Article — Micronutrient availability in Amazonian Dark Earths — Geoderma (Q1)
-- [ANEXO 6_2022](annexes/Annex_6_2022.pdf) — Article — Earthworm-biochar interactions — Science of the Total Environment (Q1)
-- [ANEXO 7_2022](annexes/Annex_7_2022.pdf) — Article — Polychaete molecular markers of metal exposure — Comp. Biochem. Physiol. C (Q1)
-- [ANEXO 8_2022](annexes/Annex_8_2022.pdf) — Article — Advancing soil macroecology methods — Global Ecology & Biogeography (Q1)
-- [ANEXO 9_2022](annexes/Annex_9_2022.pdf) — Article — Introductions of Pontoscolex corethrurus — Biological Invasions (Q1)
-- [ANEXO 10_2022](annexes/Annex_10_2022.pdf) — Article — Assessing earthworm populations in Brazil — Pesquisa Agropecuaria Brasileira (Q1)
-- [ANEXO 11_2022](annexes/Annex_11_2022.pdf) — Preprint — Human origin of Amazonian Dark Earths — SocArXiv
-- [ANEXO 12_2022](annexes/Annex_12_2022.pdf) — Preprint — Anthropic origin of Amazonian Dark Earths — EarthArXiv
-- [ANEXO 13_2022](annexes/Annex_13_2022.pdf) — Conference Proceedings — Plant productivity in Terra Preta Nova — FAO Symposium
-- [ANEXO 14_2022](annexes/Annex_14_2022.pdf) — PhD Jury — Alessandra Santos – Earthworm coprolite attributes — University of Paraná
-- [ANEXO 15_2022](annexes/Annex_15_2022.pdf) — Invited Talk — Soil biodiversity in Anthropogenic Ecosystems — meet.Eco Coimbra 2021
-- [ANEXO 16_2022](annexes/Annex_16_2022.pdf) — MSc Supervision — Yevheniia Shcheka – Apis mellifera microbiome — University of Coimbra
-- [ANEXO 17_2022](annexes/Annex_17_2022.pdf) — MSc Supervision — Mary Kate Doherty – Bio-based fertilisers & soils — USW / TEAGASC
-- [ANEXO 19_2022](annexes/Annex_19_2022.pdf) — Outreach Talk — Soil macrofauna in human landscapes — Global Biodiversity Festival
-- [ANEXO 20_2022](annexes/Annex_20_2022.pdf) — Outreach Talk — Agroforestry succession systems — ESAC – Coimbra
-- [ANEXO A_2021](annexes/Annex_A_2021.pdf) — PhD Jury — Daisy Maryon – Population ecology of Utila Iguanas — University of South Wales
-- [ANEXO B_2021](annexes/Annex_B_2021.pdf) — MSc Jury — Mary Kate Doherty – Bio-based fertilisers & soils — University of South Wales
-- [ANEXO C_2021](annexes/Annex_C_2021.pdf) — MSc Jury — Yevheniia Shcheka – Apis mellifera microbiome — University of Coimbra
-- [ANEXO 1_2020](annexes/Annex_1_2020.pdf) — Conference Proceedings — Earthworms in no-tillage systems (Paraná) — 17th National No-Tillage Meeting (Brazil)
+- [ANEXO 1_2025](annexes/Anexo_1_2025.pdf) — Article — Response of soil biota to agricultural management practices — Soil Biology & Biochemistry (Q1)
+- [ANEXO 2_2025](annexes/Anexo_2_2025.pdf) — Article — Tucupitermes, the largest Apicotermitinae from Amazon — Zootaxa (Q2)
+- [ANEXO 3_2025](annexes/Anexo_3_2025.pdf) — Article — Morphological and DNA-based identification of earthworms — Ecology & Evolution (Q1)
+- [ANEXO 4_2025](annexes/Anexo_4_2025.pdf) — Book Chapter — Soil biology, soil health and ecosystem services — Measuring and assessing the biological health of soils
+- [ANEXO 5_2025](annexes/Anexo_5_2025.pdf) — Technical Guideline — BENCHMARKS soil sampling protocol – Agricultural & Forest sites — Natural Resources and Bioeconomy Studies 39/2025
+- [ANEXO 6_2025](annexes/Anexo_6_2025.pdf) — Technical Guideline — BENCHMARKS soil sampling protocol – Urban systems — Natural Resources and Bioeconomy Studies 41/2025
+- [ANEXO 7_2025](annexes/Anexo_7_2025.pdf) — Technical Guideline — BENCHMARKS soil sampling protocol – Agricultural & Forest systems — Natural Resources and Bioeconomy Studies 40/2025
+- [ANEXO 8_2025](annexes/Anexo_8_2025.pdf) — Preprint — Coping with extremes: epigenetic and molecular adaptations in volcanic soils — bioRxiv
+- [ANEXO 9_2025](annexes/Anexo_9_2025.pdf) — Conference Abstract — Soil health through macrofauna diversity — EGU General Assembly 2025
+- [ANEXO 10_2025](annexes/Anexo_10_2025.pdf) — Conference Abstract — Integrating morphological & molecular approaches to soil biodiversity — EGU General Assembly 2024
+- [ANEXO 12_2025](annexes/Anexo_12_2025.pdf) — MSc Jury — Irene Marques – Agroecological Transition — University of Coimbra
+- [ANEXO 13_2025](annexes/Anexo_13_2025.pdf) — MSc Jury — Isabella Castro-Rebello – Environmental DNA metabarcoding — University of Coimbra
+- [ANEXO 14_2025](annexes/Anexo_14_2025.pdf) — MSc Jury — Joana Dias – Post-fire forest recovery — University of Coimbra
+- [ANEXO 15_2025](annexes/Anexo_15_2025.pdf) — MSc Jury — Mariana Sousa – Urban soils biodiversity — University of Minho
+- [ANEXO 16_2025](annexes/Anexo_16_2025.pdf) — MSc Jury — Guilhem Boyer – Batdiversity & PPP exposure — University of Coimbra
+- [ANEXO 17_2025](annexes/Anexo_17_2025.pdf) — MSc Jury & MSc Supervision — Enrico Chiesa – Soil structure complexity — University of Trento
+- [ANEXO 18_2025](annexes/Anexo_18_2025.pdf) — Invited Talk — The BENCHMARKS Project — Annual Soil Sciences Meeting, Porto
+- [ANEXO 19_2025](annexes/Anexo_19_2025.pdf) — MSc Supervision — Elisabeth Steiner – Soil macrofauna intensification gradient — University of Coimbra
+- [ANEXO 20_2025](annexes/Anexo_20_2025.pdf) — MSc Supervision — Carolina Santos – Bacterial communities & contaminants — University of Coimbra
+- [ANEXO 1_2024](annexes/Anexo_1_2024.pdf) — Article — Amazonian earthworm biodiversity & human disturbance — Science of the Total Environment (Q1)
+- [ANEXO 2_2024](annexes/Anexo_2_2024.pdf) — MSc Jury — Luísa Fraga – Soil macrofauna evaluation — University of Coimbra
+- [ANEXO 3_2024](annexes/Anexo_3_2024.pdf) — MSc Jury & Supervision — Luísa Fraga – Soil macrofauna evaluation — University of Coimbra
+- [ANEXO 4_2024](annexes/Anexo_4_2024.pdf) — MSc Jury — Mariana Nunes – Adaptations of soil organisms — University of Coimbra
+- [ANEXO 5_2024](annexes/Anexo_5_2024.pdf) — MSc Jury — Mariana Nunes – Adaptations of soil organisms — University of Coimbra
+- [ANEXO 6_2024](annexes/Anexo_6_2024.pdf) — MSc Jury & Supervision — Sofia Ramos – Mastomys natalensis differentiation — University of Coimbra
+- [ANEXO 7_2024](annexes/Anexo_7_2024.pdf) — Pedagogical Material — Manual – Organelle genome assembly — University of Coimbra
+- [ANEXO 8_2024](annexes/Anexo_8_2024.pdf) — Pedagogical Material — Manual – DNA Barcoding and Taxonomical Gap — University of Coimbra
+- [ANEXO 9_2024](annexes/Anexo_9_2024.pdf) — Pedagogical Material — Manual – Earthworm barcoding in urban fragments — University of Coimbra
+- [ANEXO 10_2024](annexes/Anexo_10_2024.pdf) — Pedagogical Material — Manual – Genetic diversity in lab cultures (barcoding) — University of Coimbra
+- [ANEXO 11_2024](annexes/Anexo_11_2024.pdf) — Pedagogical Material — Manual – Portable equipment for lab culture diversity — University of Coimbra
+- [ANEXO 12_2024](annexes/Anexo_12_2024.pdf) — Pedagogical Material — Informative handouts for student assessments — University of Coimbra
+- [ANEXO 13_2024](annexes/Anexo_13_2024.pdf) — Event Organization — BENCHMARKS 1st Annual Meeting & Workshop — University of Coimbra
+- [ANEXO 14_2024](annexes/Anexo_14_2024.pdf) — Event Organization — BENCHMARKS Workshop – Healthy soils for agriculture — University of Coimbra
+- [ANEXO 15_2024](annexes/Anexo_15_2024.pdf) — Event Organization — BENCHMARKS Workshop – Healthy soils for forests — University of Coimbra
+- [ANEXO 1_2023](annexes/Anexo_1_2023.pdf) — Article — Earthworm communities in no-tillage systems — Zootaxa (Q2)
+- [ANEXO 2_2023](annexes/Anexo_2_2023.pdf) — Article — High-altitude adaptation in Aporrectodea caliginosa — Life Science Alliance (Q1)
+- [ANEXO 3_2023](annexes/Anexo_3_2023.pdf) — Article — Anthropic origin of Amazonian Dark Earths — Nature Communications
+- [ANEXO 4_2023](annexes/Anexo_4_2023.pdf) — Article — Carbon & nitrogen storage in Amazonian soils — CATENA
+- [ANEXO 6_2023](annexes/Anexo_6_2023.pdf) — Invited Talk — BENCHMARKS WP4 Kick-Off — Wageningen University
+- [ANEXO 1_2022](annexes/Anexo_1_2022.pdf) — Article — Macroinvertebrate diversity in Anthropic soils — Global Change Biology (Q1)
+- [ANEXO 2_2022](annexes/Anexo_2_2022.pdf) — Article — Pesticides in no-tillage farming — Scientific Reports (Q1)
+- [ANEXO 3_2022](annexes/Anexo_3_2022.pdf) — Article — GHG emissions in casts of giant Brazilian earthworm — Biology & Fertility of Soils (Q1)
+- [ANEXO 4_2022](annexes/Anexo_4_2022.pdf) — Article — GC-MS fingerprints – statistical analysis — Chemical Data Collections (Q3)
+- [ANEXO 5_2022](annexes/Anexo_5_2022.pdf) — Article — Micronutrient availability in Amazonian Dark Earths — Geoderma (Q1)
+- [ANEXO 6_2022](annexes/Anexo_6_2022.pdf) — Article — Earthworm-biochar interactions — Science of the Total Environment (Q1)
+- [ANEXO 7_2022](annexes/Anexo_7_2022.pdf) — Article — Polychaete molecular markers of metal exposure — Comp. Biochem. Physiol. C (Q1)
+- [ANEXO 8_2022](annexes/Anexo_8_2022.pdf) — Article — Advancing soil macroecology methods — Global Ecology & Biogeography (Q1)
+- [ANEXO 9_2022](annexes/Anexo_9_2022.pdf) — Article — Introductions of Pontoscolex corethrurus — Biological Invasions (Q1)
+- [ANEXO 10_2022](annexes/Anexo_10_2022.pdf) — Article — Assessing earthworm populations in Brazil — Pesquisa Agropecuaria Brasileira (Q1)
+- [ANEXO 11_2022](annexes/Anexo_11_2022.pdf) — Preprint — Human origin of Amazonian Dark Earths — SocArXiv
+- [ANEXO 12_2022](annexes/Anexo_12_2022.pdf) — Preprint — Anthropic origin of Amazonian Dark Earths — EarthArXiv
+- [ANEXO 13_2022](annexes/Anexo_13_2022.pdf) — Conference Proceedings — Plant productivity in Terra Preta Nova — FAO Symposium
+- [ANEXO 14_2022](annexes/Anexo_14_2022.pdf) — PhD Jury — Alessandra Santos – Earthworm coprolite attributes — University of Paraná
+- [ANEXO 15_2022](annexes/Anexo_15_2022.pdf) — Invited Talk — Soil biodiversity in Anthropogenic Ecosystems — meet.Eco Coimbra 2021
+- [ANEXO 16_2022](annexes/Anexo_16_2022.pdf) — MSc Supervision — Yevheniia Shcheka – Apis mellifera microbiome — University of Coimbra
+- [ANEXO 17_2022](annexes/Anexo_17_2022.pdf) — MSc Supervision — Mary Kate Doherty – Bio-based fertilisers & soils — USW / TEAGASC
+- [ANEXO 19_2022](annexes/Anexo_19_2022.pdf) — Outreach Talk — Soil macrofauna in human landscapes — Global Biodiversity Festival
+- [ANEXO 20_2022](annexes/Anexo_20_2022.pdf) — Outreach Talk — Agroforestry succession systems — ESAC – Coimbra
+- [ANEXO A_2021](annexes/Anexo_A_2021.pdf) — PhD Jury — Daisy Maryon – Population ecology of Utila Iguanas — University of South Wales
+- [ANEXO B_2021](annexes/Anexo_B_2021.pdf) — MSc Jury — Mary Kate Doherty – Bio-based fertilisers & soils — University of South Wales
+- [ANEXO C_2021](annexes/Anexo_C_2021.pdf) — MSc Jury — Yevheniia Shcheka – Apis mellifera microbiome — University of Coimbra
+- [ANEXO 1_2020](annexes/Anexo_1_2020.pdf) — Conference Proceedings — Earthworms in no-tillage systems (Paraná) — 17th National No-Tillage Meeting (Brazil)
