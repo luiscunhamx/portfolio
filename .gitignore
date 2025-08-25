@@ -1,0 +1,21 @@
+﻿# Quarto caches & builds
+.quarto/
+_quarto/
+_book/
+_site/
+*_files/
+.quarto-cache/
+.Rproj.user/
+
+# Freeze/idx/xref artifacts
+.quarto/_freeze/
+.quarto/idx/
+.quarto/xref/
+.quarto/preview/
+
+# Local PDFs produced into _site (keep data/*.pdf)
+_site/**/*.pdf
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
